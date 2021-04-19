@@ -61,7 +61,7 @@ Key steps performed in cleaning text messages
 * Each of the 36 categories/classes were converted to their respective binary classes, thus creating 36 binary variables representing corresponding categories.
 * The message dataset and categories dataset containing the categories and their respective binary classes/ labels were concatenated into a single dataset and stored in  SQLite database
 
-Steps 5.1 and 5.2 were completed using the code in process_data.py
+Steps 6.1 and 6.2 were completed using the code in process_data.py
 
 ### 6.3 Feature Engineering
 Following feature extraction methods were adopted (after applying Lemmatization to cleaned text messages):
