@@ -142,8 +142,21 @@ iv) Application of sample weights - Similar to (iii) but the weights are applied
 v) Reviewing the cleaned messages and applying further cleansing mechanisms using regex. Message translation also may be required in certain cases, as I came across some messsages in Hindi (expressed using English alphabets)! 
 
 
-## 8 Deployment
+## 8 Visuals from the app
 
+<details>
+ <summary> <b> Disaster Response API - Main Screen </summary>
+ <img alt="LDisaster Response API - Main Screen" src="https://github.com/pravin096/dr-using-nlp/blob/main/web_app/app/static/DisRespAPI_MainScreen.png">
+ 
+ <summary> <b> Sample Message 1 - Classification Result </summary>
+ <img alt="Sample Message 1 - Classification Result 1 of 2" src="https://github.com/pravin096/dr-using-nlp/blob/main/web_app/app/static/SampMsg1_ModelOutput-1.png">
+ <img alt="Sample Message 1 - Classification Result 2 of 2" src="https://github.com/pravin096/dr-using-nlp/blob/main/web_app/app/static/SampMsg1_ModelOutput-2.png">
+ 
+<summary> <b> Sample Message 1 - Classification Result </summary>
+ <img alt="Train Dataset Overview 1 of 2" src="https://github.com/pravin096/dr-using-nlp/blob/main/web_app/app/static/TrainDSOverview-1.png">
+ <img alt="Train Dataset Overview 2 of 2" src="https://github.com/pravin096/dr-using-nlp/blob/main/web_app/app/static/TrainDSOverview-2.png">
+ 
+</details>
 
 
 ## 9 Package Requirements and Operating Instructions
