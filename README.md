@@ -151,14 +151,14 @@ v) Reviewing the cleaned messages and applying further cleansing mechanisms usin
  
  <details>
  <summary> <b> Sample Message 1 - Classification Result </summary>
- <img alt="Sample Message 1 - Classification Result 1 of 2" src="https://github.com/pravin096/dr-using-nlp/blob/main/web_app/app/static/SampMsg1_ModelOutput-1.png">
- <img alt="Sample Message 1 - Classification Result 2 of 2" src="https://github.com/pravin096/dr-using-nlp/blob/main/web_app/app/static/SampMsg1_ModelOutput-2.png">
+ <img alt="Sample Message 1 - Classification Result 1 of 2" src="web_app/app/static/SampMsg1_ModelOutput-1.png">
+ <img alt="Sample Message 1 - Classification Result 2 of 2" src="web_app/app/static/SampMsg1_ModelOutput-2.png">
 </details>
  
 <details>
 <summary> <b> Training Dataset Overview </summary>
- <img alt="Train Dataset Overview 1 of 2" src="https://github.com/pravin096/dr-using-nlp/blob/main/web_app/app/static/TrainDSOverview-1.png">
- <img alt="Train Dataset Overview 2 of 2" src="https://github.com/pravin096/dr-using-nlp/blob/main/web_app/app/static/TrainDSOverview-2.png">
+ <img alt="Train Dataset Overview 1 of 2" src="web_app/app/static/TrainDSOverview-1.png">
+ <img alt="Train Dataset Overview 2 of 2" src="web_app/app/static/TrainDSOverview-2.png">
 </details>
 
 
