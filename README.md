@@ -146,7 +146,7 @@ v) Reviewing the cleaned messages and applying further cleansing mechanisms usin
 
 <details>
  <summary> <b> Disaster Response API - Main Screen </summary>
- <img alt="Disaster Response API - Main Screen" src="https://github.com/pravin096/dr-using-nlp/blob/main/web_app/app/static/DisRespAPI_MainScreen.png">
+ <img alt="Disaster Response API - Main Screen" src="web_app/app/static/DisRespAPI_MainScreen.png">
  </details>
  
  <details>
@@ -156,7 +156,7 @@ v) Reviewing the cleaned messages and applying further cleansing mechanisms usin
 </details>
  
 <details>
-<summary> <b> Sample Message 1 - Classification Result </summary>
+<summary> <b> Training Dataset Overview </summary>
  <img alt="Train Dataset Overview 1 of 2" src="https://github.com/pravin096/dr-using-nlp/blob/main/web_app/app/static/TrainDSOverview-1.png">
  <img alt="Train Dataset Overview 2 of 2" src="https://github.com/pravin096/dr-using-nlp/blob/main/web_app/app/static/TrainDSOverview-2.png">
 </details>
