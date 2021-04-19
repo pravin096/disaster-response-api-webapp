@@ -32,7 +32,7 @@ This project involves development of a supervised learning model to classify tex
 
 Word cloud of entire set of cleaned messages is shown below:
 
-![Word cloud of entire set of cleaned messages](app/static/WordCloud - AllCleanedMessages.png)
+<img alt="Word cloud of entire set of cleaned messages" src="web_app/app/static/WordCloud - AllCleanedMessages.png">
 
 Key Observations
 * 6318 messages have no labels i.e. category is null for around 23% of the messages
